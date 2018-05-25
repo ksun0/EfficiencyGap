@@ -1,9 +1,10 @@
 import requests
 import json
 import bs4
+import re
 from bs4 import BeautifulSoup
 
-def collect_cases():
+def collect_cases(number):
     url = r'https://www.courtlistener.com/api/rest/v3/opinions'
     head={'Authorization': 'Token dffce215ac12d401f8915695a2dfee2fc399c8f6'}
     response = requests.get(url, headers = head)
@@ -11,7 +12,7 @@ def collect_cases():
     text_documents = []
     #print(opinions_json) Uncomment to check if throttled
     last_link = ""
-    for x in range(200):
+    for x in range(number):
         print(x)
         for x in range(len(opinions_json["results"])):
             if opinions_json["results"][x]["html_lawbox"]:
@@ -64,16 +65,15 @@ def parse_court_case(entry):
     if len(data) < 2:
         data.append(False)
     #Check year
-    if "(" in entry[0][:]:
-        start = entry[0].index("(")
-        end = entry[0].index(")")
-        data.append(entry[0][start+1:end])
+    found = re.search("([(]\d{4}[)])|((Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)\s+\d{1,2},\s+\d{4})",entry[0])
+    if found:
+        data.append(found.group(0))
     else:
         #Work on this
         data.append("Date Unknown")
     #Check court
     for x in states:
-        if x in entry[0][:600]:
+        if x in entry[0]:
             data.append(x)
             break
     if len(data) < 4:
@@ -82,12 +82,13 @@ def parse_court_case(entry):
     return data
 
 
-raw_cases = collect_cases()
+raw_cases = collect_cases(3)
 clean_cases = []
 for x in raw_cases:
     clean_case = parse_court_case(x)
     clean_cases.append(clean_case)
     f = open("clean_cases.txt","a")
+
     f.write(str(clean_case))
     f.write("\n")
     f.close()
