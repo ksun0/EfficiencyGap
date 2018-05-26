@@ -67,7 +67,10 @@ def parse_court_case(entry):
     #Check year
     found = re.search("([(]\d{4}[)])|((Jan(uary)?|Feb(ruary)?|Mar(ch)?|Apr(il)?|May|Jun(e)?|Jul(y)?|Aug(ust)?|Sep(tember)?|Oct(ober)?|Nov(ember)?|Dec(ember)?)\s+\d{1,2},\s+\d{4})",entry[0])
     if found:
-        data.append(found.group(0))
+        if len(found.group(0)) == 6:
+            data.append(found.group(0)[1:len(found.group(0))-1])
+        else:
+            data.append(found.group(0)[len(found.group(0))-4:])
     else:
         #Work on this
         data.append("Date Unknown")
@@ -82,7 +85,7 @@ def parse_court_case(entry):
     return data
 
 
-raw_cases = collect_cases(3)
+raw_cases = collect_cases(10)
 clean_cases = []
 for x in raw_cases:
     clean_case = parse_court_case(x)
