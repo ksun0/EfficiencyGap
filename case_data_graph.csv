@@ -1,0 +1,680 @@
+Year,State,Number of Cases
+1854,Maryland,1
+1865,Kentucky,1
+1880,Florida,1
+1890,Arkansas,1
+1906,Alabama,1
+1913,Kansas,1
+1922,New York,1
+1931,Illinois,1
+1934,Colorado,1
+1940,Washington,1
+1944,Alabama,1
+1946,Kentucky,1
+1947,California,1
+1947,Maryland,1
+1948,Louisiana,1
+1949,New York,1
+1950,Iowa,1
+1951,New Jersey,1
+1951,New Mexico,1
+1952,California,1
+1952,Illinois,1
+1953,Connecticut,2
+1955,Alaska,1
+1955,Florida,1
+1956,Florida,2
+1956,Washington,1
+1957,Massachusetts,1
+1957,Texas,1
+1959,Idaho,1
+1959,Missouri,1
+1960,Arkansas,1
+1962,California,1
+1962,Florida,1
+1962,Louisiana,1
+1962,Maryland,1
+1963,Connecticut,1
+1963,Delaware,1
+1963,Florida,2
+1963,Louisiana,1
+1963,New Jersey,1
+1964,Colorado,1
+1964,New York,1
+1965,Arizona,1
+1965,Florida,1
+1966,Kentucky,1
+1967,Alabama,2
+1968,Arizona,1
+1968,Arkansas,1
+1968,California,2
+1968,Tennessee,1
+1969,Alabama,2
+1969,Florida,1
+1969,Maryland,1
+1970,Georgia,2
+1970,Louisiana,1
+1970,Oklahoma,1
+1971,Alabama,3
+1971,Georgia,1
+1971,Idaho,1
+1971,Indiana,1
+1971,Louisiana,1
+1971,New Jersey,1
+1972,Arizona,1
+1972,California,1
+1972,Connecticut,1
+1972,Florida,3
+1973,Alabama,2
+1973,California,3
+1973,Louisiana,2
+1973,New Hampshire,1
+1973,New York,5
+1973,Texas,1
+1973,Washington,1
+1974,Alabama,1
+1974,California,2
+1974,Florida,1
+1974,Hawaii,1
+1974,New York,1
+1975,Alabama,1
+1975,California,2
+1975,Georgia,4
+1975,Illinois,1
+1975,New York,1
+1975,Virginia,1
+1976,California,2
+1976,Louisiana,1
+1976,Michigan,2
+1976,New York,1
+1976,Ohio,1
+1977,Alabama,1
+1977,Colorado,1
+1977,Delaware,1
+1977,Indiana,1
+1977,Iowa,1
+1977,Louisiana,2
+1978,Georgia,1
+1978,Louisiana,1
+1978,Massachusetts,1
+1978,Missouri,1
+1978,New York,1
+1978,Ohio,1
+1979,Connecticut,1
+1979,Delaware,1
+1979,New York,2
+1980,Connecticut,1
+1980,Louisiana,1
+1980,Michigan,1
+1981,Alabama,1
+1981,Arizona,1
+1981,California,2
+1981,Colorado,1
+1981,Connecticut,1
+1981,Illinois,1
+1981,Indiana,1
+1981,Iowa,1
+1981,Michigan,1
+1981,Minnesota,1
+1981,New Jersey,1
+1981,New York,2
+1981,Oregon,1
+1982,Alabama,3
+1982,Alaska,1
+1982,Arkansas,1
+1982,Connecticut,1
+1982,Delaware,1
+1982,Florida,1
+1982,Georgia,1
+1982,Illinois,3
+1982,Kentucky,1
+1982,Michigan,1
+1982,New Jersey,1
+1982,New York,1
+1983,Alabama,2
+1983,Alaska,1
+1983,Arkansas,1
+1983,California,1
+1983,Connecticut,1
+1983,Florida,2
+1983,Illinois,1
+1983,Indiana,1
+1983,Kansas,1
+1983,Massachusetts,1
+1983,Washington,1
+1984,Arizona,1
+1984,California,3
+1984,Colorado,1
+1984,Illinois,1
+1984,Indiana,1
+1984,Kansas,1
+1985,Alabama,1
+1985,Arizona,1
+1985,Arkansas,1
+1985,California,2
+1985,Florida,2
+1985,Illinois,1
+1985,Iowa,1
+1985,Kentucky,1
+1985,Louisiana,1
+1985,New York,4
+1985,Rhode Island,1
+1986,Alabama,1
+1986,California,2
+1986,Florida,1
+1986,Illinois,4
+1986,Louisiana,4
+1986,Maryland,1
+1986,Michigan,2
+1986,Texas,3
+1986,Washington,1
+1986,Wisconsin,1
+1987,Alabama,1
+1987,Arkansas,1
+1987,California,2
+1987,Connecticut,1
+1987,Delaware,2
+1987,Florida,1
+1987,Georgia,1
+1987,Indiana,1
+1987,Louisiana,1
+1987,Massachusetts,1
+1987,Michigan,3
+1987,Mississippi,2
+1987,Ohio,1
+1987,Texas,2
+1987,Washington,1
+1988,Alaska,1
+1988,Arizona,2
+1988,California,3
+1988,Connecticut,1
+1988,Florida,1
+1988,Illinois,2
+1988,Indiana,2
+1988,Iowa,1
+1988,Kentucky,1
+1988,Louisiana,1
+1988,Maryland,2
+1988,Michigan,2
+1988,Mississippi,4
+1988,Nevada,1
+1988,New York,4
+1988,North Carolina,1
+1988,Ohio,1
+1988,Pennsylvania,2
+1988,Texas,5
+1989,Alabama,1
+1989,Arizona,2
+1989,California,1
+1989,Connecticut,1
+1989,Delaware,1
+1989,Florida,2
+1989,Illinois,1
+1989,Kentucky,3
+1989,Maryland,1
+1989,Michigan,2
+1989,Minnesota,1
+1989,Mississippi,1
+1989,New York,1
+1989,South Carolina,1
+1989,Texas,3
+1989,Virginia,1
+1989,Washington,1
+1990,Alabama,2
+1990,Alaska,1
+1990,Arkansas,1
+1990,Delaware,2
+1990,Florida,1
+1990,Idaho,1
+1990,Illinois,3
+1990,Indiana,1
+1990,Iowa,1
+1990,Louisiana,3
+1990,Maryland,1
+1990,Massachusetts,1
+1990,Michigan,2
+1990,Mississippi,1
+1990,Missouri,2
+1990,New York,1
+1990,North Carolina,1
+1990,Ohio,2
+1990,Pennsylvania,1
+1990,Tennessee,2
+1990,Texas,1
+1991,Alabama,3
+1991,Alaska,2
+1991,Arizona,1
+1991,Delaware,3
+1991,Georgia,6
+1991,Hawaii,1
+1991,Illinois,2
+1991,Kansas,1
+1991,Kentucky,2
+1991,Louisiana,4
+1991,Maryland,1
+1991,New Hampshire,1
+1991,New York,1
+1991,Oklahoma,1
+1991,Rhode Island,1
+1991,Texas,6
+1992,Alabama,3
+1992,Alaska,1
+1992,Arkansas,1
+1992,California,9
+1992,Colorado,2
+1992,Connecticut,2
+1992,Florida,4
+1992,Georgia,5
+1992,Hawaii,1
+1992,Illinois,3
+1992,Indiana,3
+1992,Iowa,1
+1992,Kansas,1
+1992,Kentucky,4
+1992,Louisiana,8
+1992,Maryland,1
+1992,Massachusetts,1
+1992,Michigan,1
+1992,Mississippi,4
+1992,Missouri,3
+1992,Montana,1
+1992,New Mexico,1
+1992,New York,4
+1992,Pennsylvania,2
+1992,Texas,15
+1992,Washington,2
+1993,Alabama,5
+1993,Alaska,1
+1993,Arizona,4
+1993,Arkansas,3
+1993,California,8
+1993,Colorado,3
+1993,Delaware,2
+1993,Florida,2
+1993,Georgia,6
+1993,Hawaii,1
+1993,Illinois,6
+1993,Indiana,1
+1993,Iowa,1
+1993,Kansas,3
+1993,Kentucky,7
+1993,Louisiana,11
+1993,Maryland,5
+1993,Michigan,3
+1993,Mississippi,5
+1993,Nebraska,1
+1993,Nevada,1
+1993,New Hampshire,1
+1993,New York,1
+1993,Oklahoma,2
+1993,Rhode Island,2
+1993,Tennessee,1
+1993,Texas,22
+1993,Virginia,1
+1994,Alabama,7
+1994,Arizona,1
+1994,Arkansas,1
+1994,California,13
+1994,Colorado,7
+1994,Connecticut,1
+1994,Delaware,5
+1994,Florida,2
+1994,Hawaii,1
+1994,Indiana,3
+1994,Kentucky,1
+1994,Louisiana,14
+1994,Maryland,3
+1994,Michigan,2
+1994,Minnesota,1
+1994,Mississippi,2
+1994,Missouri,1
+1994,Nebraska,1
+1994,New York,2
+1994,North Carolina,1
+1994,Ohio,1
+1994,Texas,19
+1995,Alabama,4
+1995,Alaska,1
+1995,Arkansas,3
+1995,California,8
+1995,Delaware,1
+1995,Florida,3
+1995,Illinois,3
+1995,Kansas,1
+1995,Michigan,1
+1995,Minnesota,1
+1995,Mississippi,2
+1995,New Hampshire,1
+1995,Oklahoma,2
+1995,South Carolina,1
+1995,Tennessee,1
+1995,Texas,5
+1995,Virginia,1
+1995,Washington,1
+1995,Wisconsin,1
+1996,Alabama,2
+1996,Alaska,1
+1996,California,2
+1996,Florida,1
+1996,Georgia,1
+1996,Hawaii,1
+1996,Indiana,2
+1996,Kentucky,1
+1996,Maine,1
+1996,New York,2
+1996,Ohio,2
+1996,Texas,1
+1997,Alabama,1
+1997,Arizona,1
+1997,California,1
+1997,Florida,1
+1997,Georgia,1
+1997,Illinois,1
+1997,Indiana,1
+1997,Kansas,2
+1997,Louisiana,1
+1997,Massachusetts,1
+1997,Michigan,1
+1997,Minnesota,1
+1997,Montana,1
+1997,Nevada,1
+1997,New York,1
+1997,Washington,1
+1998,Alabama,1
+1998,California,1
+1998,Florida,2
+1998,Hawaii,1
+1998,Illinois,4
+1998,Kentucky,1
+1998,Louisiana,1
+1998,Maryland,1
+1998,New York,1
+1998,Tennessee,1
+1998,Texas,1
+1998,Wyoming,1
+1999,Alabama,2
+1999,Arizona,2
+1999,Arkansas,1
+1999,California,1
+1999,Florida,2
+1999,Georgia,2
+1999,Illinois,1
+1999,Louisiana,2
+1999,Maine,1
+1999,Massachusetts,1
+1999,Missouri,2
+1999,New Jersey,2
+1999,New York,1
+1999,North Carolina,2
+1999,Ohio,2
+1999,Oklahoma,1
+1999,Texas,1
+1999,Utah,1
+1999,Washington,1
+2000,Alabama,2
+2000,Arkansas,2
+2000,California,3
+2000,Connecticut,1
+2000,Florida,1
+2000,Illinois,3
+2000,Louisiana,2
+2000,Maryland,1
+2000,New Jersey,1
+2000,New York,1
+2000,Texas,4
+2001,Alabama,3
+2001,California,1
+2001,Colorado,1
+2001,Connecticut,2
+2001,Delaware,1
+2001,Florida,1
+2001,Georgia,1
+2001,Hawaii,1
+2001,Illinois,1
+2001,Indiana,3
+2001,Iowa,4
+2001,Kansas,1
+2001,Maryland,1
+2001,Massachusetts,1
+2001,New Jersey,1
+2001,New York,1
+2001,Ohio,2
+2001,South Dakota,1
+2001,Washington,1
+2001,Wisconsin,1
+2002,California,1
+2002,Colorado,1
+2002,Indiana,1
+2002,Iowa,1
+2002,Louisiana,1
+2002,Maryland,1
+2002,New Mexico,1
+2002,New York,1
+2002,North Carolina,1
+2002,Texas,1
+2003,Alabama,1
+2003,Arizona,1
+2003,Arkansas,1
+2003,California,1
+2003,Delaware,1
+2003,Kansas,1
+2003,Maryland,2
+2003,Massachusetts,1
+2003,New Jersey,1
+2003,New York,1
+2003,Pennsylvania,1
+2003,Texas,1
+2004,Alabama,1
+2004,Arizona,1
+2004,California,5
+2004,Georgia,1
+2004,Illinois,1
+2004,Louisiana,1
+2004,Michigan,1
+2004,New Jersey,1
+2004,New York,2
+2004,Tennessee,1
+2004,Texas,1
+2005,Alabama,3
+2005,Alaska,1
+2005,Arizona,2
+2005,Arkansas,1
+2005,California,1
+2005,Colorado,4
+2005,Connecticut,1
+2005,Delaware,1
+2005,Florida,1
+2005,Georgia,2
+2005,Illinois,1
+2005,Indiana,1
+2005,Kentucky,2
+2005,Michigan,4
+2005,Mississippi,1
+2005,New York,4
+2005,Ohio,1
+2005,Pennsylvania,2
+2005,Rhode Island,1
+2005,Texas,1
+2005,Washington,2
+2006,Alaska,1
+2006,Arizona,1
+2006,Arkansas,1
+2006,California,1
+2006,Connecticut,1
+2006,Delaware,2
+2006,Georgia,2
+2006,Hawaii,1
+2006,Idaho,1
+2006,Illinois,1
+2006,Indiana,3
+2006,Iowa,1
+2006,Kentucky,1
+2006,Maryland,2
+2006,Massachusetts,1
+2006,Michigan,1
+2006,Missouri,1
+2006,New York,3
+2006,Ohio,1
+2006,Pennsylvania,1
+2006,Virginia,1
+2007,Alabama,1
+2007,Alaska,1
+2007,Arizona,1
+2007,Arkansas,5
+2007,California,8
+2007,Connecticut,7
+2007,Delaware,1
+2007,Florida,2
+2007,Georgia,1
+2007,Illinois,4
+2007,Kansas,2
+2007,Louisiana,1
+2007,Maine,2
+2007,New Jersey,1
+2007,New York,28
+2007,North Carolina,1
+2008,Alabama,1
+2008,Arizona,2
+2008,California,8
+2008,Connecticut,5
+2008,Delaware,2
+2008,Georgia,1
+2008,Illinois,3
+2008,Kansas,1
+2008,Maine,1
+2008,Maryland,1
+2008,Massachusetts,1
+2008,Michigan,1
+2008,Missouri,1
+2008,New Jersey,2
+2008,New York,24
+2008,North Carolina,1
+2008,North Dakota,1
+2008,Pennsylvania,2
+2008,South Carolina,1
+2008,Washington,1
+2009,Alabama,2
+2009,Alaska,1
+2009,Arizona,1
+2009,Arkansas,4
+2009,California,5
+2009,Colorado,1
+2009,Connecticut,8
+2009,Delaware,2
+2009,Florida,2
+2009,Georgia,2
+2009,Illinois,3
+2009,Indiana,1
+2009,Iowa,1
+2009,Kentucky,2
+2009,Maryland,1
+2009,Massachusetts,1
+2009,Mississippi,1
+2009,Missouri,2
+2009,Montana,1
+2009,New Jersey,1
+2009,New York,18
+2009,Oregon,1
+2009,Tennessee,1
+2009,Texas,2
+2009,Utah,1
+2010,Alabama,14
+2010,Alaska,1
+2010,Arizona,8
+2010,Arkansas,8
+2010,California,23
+2010,Colorado,8
+2010,Connecticut,2
+2010,Delaware,1
+2010,Florida,7
+2010,Georgia,2
+2010,Idaho,1
+2010,Illinois,17
+2010,Indiana,2
+2010,Iowa,6
+2010,Kansas,2
+2010,Kentucky,6
+2010,Maine,4
+2010,Maryland,3
+2010,Massachusetts,2
+2010,Michigan,5
+2010,Minnesota,3
+2010,Mississippi,1
+2010,Missouri,1
+2010,Nebraska,2
+2010,New Jersey,8
+2010,New Mexico,2
+2010,New York,6
+2010,North Carolina,4
+2010,Ohio,6
+2010,Oklahoma,5
+2010,Oregon,1
+2010,Pennsylvania,9
+2010,South Carolina,4
+2010,South Dakota,1
+2010,Tennessee,1
+2010,Texas,2
+2010,Utah,1
+2010,Virginia,6
+2010,Washington,6
+2011,Alabama,1
+2011,Arizona,2
+2011,California,2
+2011,Delaware,2
+2011,Florida,2
+2011,Illinois,2
+2011,Kentucky,1
+2011,New Mexico,2
+2011,New York,2
+2011,Ohio,1
+2012,California,4
+2012,Georgia,1
+2012,Kansas,1
+2012,Kentucky,1
+2012,Ohio,2
+2013,Alabama,1
+2013,California,3
+2013,Delaware,1
+2013,Florida,1
+2013,Georgia,1
+2013,Illinois,1
+2013,Michigan,1
+2013,New Jersey,1
+2013,Ohio,1
+2013,Texas,1
+2014,Alabama,1
+2014,Alaska,1
+2014,Arkansas,1
+2014,Colorado,1
+2014,Connecticut,1
+2014,Florida,3
+2014,Indiana,1
+2014,Missouri,1
+2014,Pennsylvania,1
+2015,Alabama,1
+2015,Arkansas,1
+2015,California,1
+2015,Georgia,4
+2015,Indiana,1
+2015,Iowa,1
+2015,Kentucky,1
+2015,Louisiana,1
+2015,Maine,1
+2015,Nevada,1
+2015,Pennsylvania,1
+2015,Texas,3
+2015,Virginia,1
+2016,Alabama,1
+2016,Delaware,1
+2016,Florida,1
+2016,Louisiana,1
+2016,New York,1
+2016,Oklahoma,1
+2016,Tennessee,1
+2017,Alabama,1
+2017,Florida,1
+2017,Michigan,1
+2017,New Jersey,2
+2017,Ohio,1
+2018,Illinois,1
+2018,Mississippi,1
