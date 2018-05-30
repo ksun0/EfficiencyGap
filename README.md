@@ -1,6 +1,5 @@
 # EfficiencyGap
 Proving the justiciability of the Efficiency Gap.
-:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 
 # Getting Started
 
